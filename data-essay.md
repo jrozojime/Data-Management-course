@@ -26,7 +26,9 @@ In the case of a different team to the one choosen became champion, the same pro
 * Juventus - Valencia(27/11/2018): No data aviable yet
 * Young Boys - Juventus(12/12/2018): No data aviable yet
 
-## 
+## Data Processing
+
+The data found is in .PDF format therefore will be processed until get an usefull .CSV file. .CSV is the format allowed by R markdown and Gephi; Programs that will be used to analize each match. 
 
 ## Literature Used
 
