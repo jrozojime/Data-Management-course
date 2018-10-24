@@ -17,7 +17,7 @@ Social Network Analysis(SNA) focuses in reveal patterns of network interactions 
 The Data from **Juventus(ITA)** and its rivals in every stage will be found and pre-processed, afterwards the data will be used to perform a Social Network Analysis(SNA) in order to define a style of a play of **Juventus** team . 
 In the case of a different team to the one choosen became champion, the same process will be applied to its related data. 
 
-## List Data
+## List of Data
 
 * Valencia 0-2 Juventus(19/09/2018): https://www.uefa.com/newsfiles/ucl/2019/2025068_tpd.pdf
 * Juventus 3-0 Young Boys(02/10/2018): https://www.uefa.com/newsfiles/ucl/2019/2025075_tpd.pdf
@@ -26,7 +26,7 @@ In the case of a different team to the one choosen became champion, the same pro
 * Juventus - Valencia(27/11/2018): No data aviable yet
 * Young Boys - Juventus(12/12/2018): No data aviable yet
 
-
+## 
 
 ## Literature Used
 
