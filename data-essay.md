@@ -14,7 +14,7 @@ Social Network Analysis(SNA) focuses in reveal patterns of network interactions 
 
 ## Data 
 
-The Data from **Juventus(ITA)** and its rivals in every stage will be found and pre-processed, afterwards the data will be used to perform a Social Network Analysis(SNA) in order to define a style of a play of **Juventus** team . 
+The Data from **Juventus(ITA)** and its rivals in every stage will be found and pre-processed, afterwards the data will be used to perform a Social Network Analysis(SNA) in order to define the playing style of **Juventus** team . 
 In the case of a different team to the one choosen became champion, the same process will be applied to its related data. 
 
 ## List of Data
