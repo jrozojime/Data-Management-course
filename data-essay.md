@@ -19,12 +19,15 @@ In the case of a different team to the one choosen became champion, the same pro
 
 ## List of Data
 
-* Valencia 0-2 Juventus(19/09/2018): https://www.uefa.com/newsfiles/ucl/2019/2025068_tpd.pdf
-* Juventus 3-0 Young Boys(02/10/2018): https://www.uefa.com/newsfiles/ucl/2019/2025075_tpd.pdf
-* Manchester United 0-1 Juventus(23/10/2018): https://www.uefa.com/newsfiles/ucl/2019/2025091_tpd.pdf
+* ![Valencia 0-2 Juventus(19/09/2018)](https://www.uefa.com/newsfiles/ucl/2019/2025068_tpd.pdf)
+* ![Juventus 3-0 Young Boys(02/10/2018)](https://www.uefa.com/newsfiles/ucl/2019/2025075_tpd.pdf)
+* ![Manchester United 0-1 Juventus(23/10/2018)](https://www.uefa.com/newsfiles/ucl/2019/2025091_tpd.pdf)
 * Juventus - Manchester United(07/11/2018): No data aviable yet
 * Juventus - Valencia(27/11/2018): No data aviable yet
 * Young Boys - Juventus(12/12/2018): No data aviable yet
+
+* ![Data in CKAN](https://hubofdata.ru/dataset/championsleaguejuventus)
+* ![Data in Zenodo](https://zenodo.org/record/1470810#.W9JBk1JoSRs)
 
 ## Data Processing
 
