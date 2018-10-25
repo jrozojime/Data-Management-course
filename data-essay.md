@@ -30,6 +30,12 @@ In the case of a different team to the one choosen became champion, the same pro
 
 The data found is in .PDF format therefore will be processed until get an usefull .CSV file. .CSV is the format allowed by R markdown and Gephi; Programs that will be used to analize each match. 
 
+## License
+
+![Creative Commons Attribution Share-Alike (cc-by-sa) ](http://opendefinition.org/licenses/cc-by-sa/)
+Autor: Juan Camilo Rozo
+email: juan.rozo23@gmail.com
+
 ## Literature Used
 
 (1)Hugo Sarmento, Rui Marcelino, M. Teresa Anguera, Jorge CampaniÇo, Nuno Matos & José Carlos LeitÃo. Match analysis in football: a systematic review, Journal of Sports Sciences, 32:20, 1831-1843 (2014).
